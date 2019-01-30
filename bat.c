@@ -7,7 +7,7 @@
 /*
  * Resources occupation: 
  *     North: 0, 1.
- * 	   East:  1, 2.
+ *     East:  1, 2.
  *     South: 2, 3.
  *     West:  3, 0.
  */
